@@ -6,7 +6,7 @@ This application is used to calculate the sum of all the expenses of the person.
 
 
 #### command prompt commands
-_create-react-app budget_ :to create the folder in the local system
-_cd budget_ :to open the budget directory
-_npm install react-icons uuid --save_ :to install the react-icons and uuid
-_npm start_ :to run the app
+*_create-react-app budget_ :to create the folder in the local system
+*_cd budget_ :to open the budget directory
+*_npm install react-icons uuid --save_ :to install the react-icons and uuid
+*_npm start_ :to run the app
